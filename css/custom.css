@@ -13,8 +13,8 @@ h6 {
 	}
 	
 .feature {
-	background: url('../images/light_bulb.jpg');
-	background-position: top right;
+	background: url('../images/riverside.jpg');
+	background-position: 30% 35%;
 	background-size: cover;
 	background-color: #dd845a;
 	color: white;
@@ -38,7 +38,6 @@ h6 {
 .promo h3,
 .promo a:link,
 .promo a:visited,
-.promo a:hover,
 .promo a:active {
     color: white;
 	text-shadow: 1px 1px 8px black;
@@ -46,7 +45,7 @@ h6 {
 }
 
 .promo-item {
-    height: 200px;
+    height: 680px;
     line-height: 180px;
     text-align: center;
 }
@@ -68,7 +67,7 @@ h6 {
 	}
 	
 .item-2 {
-	background: url('../images/coffee_beans_1.jpg');
+	background: url('../images/ART1.PNG');
 	}
 	
 .item-3 {
@@ -105,7 +104,8 @@ h6 {
 .footer-map {
 	height: 300px;
 	width: 100%;
-	background: url('../images/map.jpg');
+	background: url('../images/riverside.jpg');
+	background-position: 30% 50%;
 	background-size: cover;
 	border-color: #ccc;
 	}
