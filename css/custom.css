@@ -26,58 +26,51 @@ h6 {
 	}
 	
 .promo, .footer-map {
-	border-width: 1px;
-	border-color: black;
-	border-top-style: solid;
-	border-bottom-style: solid;
-	margin-top: 20px;
-	margin-bottom: 20px;
+	margin-top: 40px;
+	margin-bottom: 40px;
 	}
 
 .promo,
-.promo h3,
-.promo a:link,
-.promo a:visited,
-.promo a:active {
-    color: white;
-	text-shadow: 1px 1px 8px black;
+.promo h3 {
+    color: #dd845a;
     text-decoration: none;
 }
 
 .promo-item {
-    height: 680px;
-    line-height: 180px;
+    height: 430px;
+    line-height: 20px;
     text-align: center;
 }
 
-.promo-item:hover {
+/* .promo-item:hover {
     background-size: 110%; 
     border: 5px solid black;
     line-height: 170px;
-}
+} */
 
 .promo-item h3 {
     font-size: 40px;
-    display: inline-block;
     vertical-align: middle;
 }
 
 .item-1 {
-	background: url('../images/mung_beans.jpg');
+	background: url('../images/Untitled-2.png');
+	background-repeat: no-repeat;
 	}
 	
 .item-2 {
-	background: url('../images/ART1.PNG');
+	background: url('../images/Untitled-1.png');
+	background-repeat: no-repeat;
 	}
 	
 .item-3 {
-	background: url('../images/grapes.jpg');
+	background: url('../images/Untitled-3.png');
+	background-repeat: no-repeat;
 	}
 		
 .item-1,
 .item-2,
 .item-3 {
-	background-size: cover;
 	background-position: 50% 50%;
 	}
 
